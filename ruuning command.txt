@@ -1,0 +1,1 @@
+& "C:/Users/Al Shahbaz/anaconda3/python.exe" "C:/Users/Al Shahbaz/Videos/OMR-Scanner-and-Test-Grader-using-OpenCV-master/test_grader.py" -i "C:/Users/Al Shahbaz/Videos/OMR-Scanner-and-Test-Grader-using-OpenCV-master/images/test_01.png"
