@@ -3,12 +3,9 @@
 
 Awesome OMR Scanner and Grader using just OpenCV and Python
 
-All thanks to Adrian Rosebrock (from [pyimagesearch](https://www.pyimagesearch.com/)) for making
-great tutorials. This project is inspired from his blog: [Bubble sheet multiple choice scanner and test grader using OMR, Python and OpenCV](https://www.pyimagesearch.com/2016/10/03/bubble-sheet-multiple-choice-scanner-and-test-grader-using-omr-python-and-opencv/). I have included the author's code and the one i wrote my self as well.
 
 ## **Key Points**
 1. Combines the following techniques:
-    1. [Building document scanner](https://github.com/practical-cv/Document-Scanner)
     2. Sorting the contours
     3. Perspective transform to get top-down view
 2. Steps involved:
